@@ -11,7 +11,7 @@ This extension assumes that you're using one of the following on any model you w
 
 #### ActiveRecord
 
-[ranked-model](https://https://github.com/mixonic/ranked-model)
+[ranked-model](https://github.com/mixonic/ranked-model)
 
 ```ruby
 class Page < ActiveRecord::Base
